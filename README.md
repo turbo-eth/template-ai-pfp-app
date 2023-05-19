@@ -1,12 +1,12 @@
+![marketplace](https://github.com/turbo-eth/template-ai-pfp-app/assets/3408362/e748e22f-889f-4bb5-a26a-9912121216de)
 # Ethereal Nexus
 
-The Ethereal Nexus is Web3 application template for combining artificial intelligence and blockchains.
-
-Players in the "Web3 Metaverse" can create a unique 1-of-1 PFP NFT generated using an image generation model trained in their personal images.
-
-## Getting Started
+The Ethereal Nexus is Web3 application for combining artificial intelligence and blockchains.
 
 The template is currently under construction and open to the TurboETH community bounty contributors.
+
+### Initial Feature Requests
+- [ ] Players in the "Web3 Metaverse" can create a unique 1-of-1 PFP NFT generated using an image generation model trained in their personal images.
 
 ## 🧱 Project
 Create a Web3 application that combines Dreambooth AI and ERC721 NFTs. 
@@ -52,4 +52,9 @@ The Places TurboETH template is good example of how to setup a turbo monorepo th
 The [WAGMI CLI](https://wagmi.sh/cli/getting-started) is used to connect the application and smart contracts. React read, write and events are automatically generated.
 
 ## Mockups
-The [full mockups](https://www.figma.com/file/vhv5ucJdlYL7AKrfZFJrxb/Portrait?type=design&node-id=1%3A360&t=s5l9yovThewchi93-1) are available on Figma and are free to download, copy and update.
+The [initial mockups and ideas](https://www.figma.com/file/vhv5ucJdlYL7AKrfZFJrxb/Portrait?type=design&node-id=1%3A360&t=s5l9yovThewchi93-1) are available on Figma and are free to download, copy and update.
+
+![combo](https://github.com/turbo-eth/template-ai-pfp-app/assets/3408362/a68b7bc8-8922-47e6-a7f4-d91fe3d9da9c)
+
+
+
